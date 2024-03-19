@@ -13,6 +13,6 @@ variable "environment" {
   default = "dev"
 }
 
-# variable "zone_name" {
-#   default = "daws76s.online"
-# }
+variable "zone_name" {
+  default = "pradeepshop.online"
+}
